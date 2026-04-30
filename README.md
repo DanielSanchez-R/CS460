@@ -1,5 +1,5 @@
 # CS460
-Capstone Project
+Capstone Project  (**Either Download Poster for easier viewing or zoom in via browser zoom. Else try microsoft zoom.**)
 
 # Swarm Behaviour Machine Learning Project
 
