@@ -121,6 +121,6 @@ To run the notebook from the beginning, upload the three dataset files into Goog
 
 The model training section can take a long time to run in Google Colab because the datasets are large and high-dimensional.
 
-If you do not want to rerun the full **Model Training Runs** section, you can use the saved partial result files included in the GitHub repository.
+If you do not want to rerun the full **Model Training Runs** section, you can use the saved partial result files included in the "extra" folder within the GitHub repository.
 
 These files are located in the:PartialFiles folder. Simply upload them into Google Colab session storage.
