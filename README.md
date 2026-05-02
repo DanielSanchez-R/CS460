@@ -1,6 +1,6 @@
+# Swarm Behaviour Machine Learning Project  - Daniel Sanchez ENMU Spring 2026
 # CS460
 Capstone Project  (**Download Poster for easier viewing.**)
-
 # You can watch me Demo the poster @: 
 
 # Swarm Behaviour Machine Learning Project
